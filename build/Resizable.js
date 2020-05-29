@@ -122,6 +122,7 @@ function (_React$Component) {
   ;
 
   _proto.resizeHandler = function resizeHandler(handlerName, axis) {
+    console.log("WUWUGWG")
     var _this2 = this;
 
     return function (e, _ref2) {
